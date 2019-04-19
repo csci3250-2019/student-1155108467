@@ -24,12 +24,12 @@ README
 
 ----
 ### TO DO LIST
--[ ] Assigment
--[ ] Assigment
--[ ] Assigment
--[ ] Sleep >8 hours
--[x] Project Milestone 2  
+- [ ] Assigment
+- [ ] Assigment
+- [ ] Assigment
+- [ ] Sleep >8 hours
+- [x] Project Milestone 2  
 
 ----
 ### Screenshot
-![](C:\Users\CM\Pictures\Screenshot.jpg "Screenshot")
+![FAIL](C:\Users\CM\Pictures\Screenshot.jpg "Screenshot")
