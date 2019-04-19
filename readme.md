@@ -1,12 +1,12 @@
 README
 ----
-###About me
+### About me
 	MY NAME: Jacky / Chun
 	YEAR: 2
 	MAJOR: CS
 	HOBBIES:Badmintor (Favorite: Lee Yon-dae)
 	        Video/PC Game
-#####Experience
+##### Experience
 | LV | SKILLS |
 | ---- | ---- |
 | 0 | Never use **Git/GitHub** before. |
@@ -14,7 +14,7 @@ README
 | >2| N/A |  
 
 ----
-###COURSE-THIS TERM
+### COURSE-THIS TERM
 * CSCI2100  
 - CSCI3250  
 - ENGG2340  
@@ -23,7 +23,7 @@ README
 * ELTU2014  
 
 ----
-###TO DO LIST
+### TO DO LIST
 -[ ] Assigment
 -[ ] Assigment
 -[ ] Assigment
@@ -31,5 +31,5 @@ README
 -[x] Project Milestone 2  
 
 ----
-###Screenshot
+### Screenshot
 ![](C:\Users\CM\Pictures\Screenshot.jpg "Screenshot")
