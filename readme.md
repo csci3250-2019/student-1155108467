@@ -1,6 +1,6 @@
 README
 ----
-### ABIUT ME
+### ABOUT ME
 	MY NAME: Jacky / Chun
 	YEAR: 2
 	MAJOR: CS
@@ -32,4 +32,5 @@ README
 
 ----
 ### SCREENSHOT
-![FAIL](Screenshot.jpg "Screenshot")
+![FAIL](Screenshot.jpg "Screenshot")  
+![FAIL](Screenshot2.jpg "Screemshoot2")
