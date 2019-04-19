@@ -32,4 +32,4 @@ README
 
 ----
 ### Screenshot
-![FAIL](file:///Users/CM/Pictures/Screenshot.jpg "Screenshot")
+![FAIL](Screenshot.jpg "Screenshot")
