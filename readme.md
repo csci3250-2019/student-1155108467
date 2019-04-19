@@ -1,12 +1,12 @@
 README
 ----
-### About me
+### ABIUT ME
 	MY NAME: Jacky / Chun
 	YEAR: 2
 	MAJOR: CS
 	HOBBIES:Badmintor (Favorite: Lee Yon-dae)
 	        Video/PC Game
-##### Experience
+##### EXPERIENCE
 | LV | SKILLS |
 | ---- | ---- |
 | 0 | Never use **Git/GitHub** before. |
@@ -32,4 +32,4 @@ README
 
 ----
 ### Screenshot
-![FAIL](file:\\\Users\CM\Pictures\Screenshot.jpg "Screenshot")
+![FAIL](file:///Users/CM/Pictures/Screenshot.jpg "Screenshot")
