@@ -16,10 +16,10 @@ README
 ----
 ### COURSE-THIS TERM
 * CSCI2100  
-- CSCI3250  
-- ENGG2340  
-- UGEA2100  
-- UGED1111  
+* CSCI3250  
+* ENGG2340  
+* UGEA2100  
+* UGED1111  
 * ELTU2014  
 
 ----
@@ -32,4 +32,4 @@ README
 
 ----
 ### Screenshot
-![FAIL](C:\Users\CM\Pictures\Screenshot.jpg "Screenshot")
+![FAIL](file:\\\Users\CM\Pictures\Screenshot.jpg "Screenshot")
