@@ -31,5 +31,5 @@ README
 - [x] Project Milestone 2  
 
 ----
-### Screenshot
+### SCREENSHOT
 ![FAIL](Screenshot.jpg "Screenshot")
